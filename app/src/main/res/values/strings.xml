@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BulkSMS</string>
+    <string name="number">number</string>
+    <string name="message">message</string>
+    <string name="send">send</string>
+    <string name="cancel">Cancel</string>
+    <string name="fileOpen">file open</string>
+    <string name="explain">Allow import file CSV</string>
+</resources>
